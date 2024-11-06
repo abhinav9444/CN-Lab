@@ -33,46 +33,19 @@ To set up the environment for the lab exercises, follow these steps:
    git clone https://github.com/yourusername/ComputerNetworksLab.git
 
 2. Navigate to the project directory:
+  
+  Copy code from different Laboratory session and execute them on your local machine for implementation.
   ```sh
-  Copy code
   cd ComputerNetworksLab
-  Install the required dependencies (if any).
   ```
 ## 🤝 Contributing
 Contributions are welcome! If you have any improvements or suggestions, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+-    Fork the Project
+-    Create your Feature Branch (git checkout -b feature/AmazingFeature)
+-   Commit your Changes (git commit -m 'Add some AmazingFeature')
+-   Push to the Branch (git push origin feature/AmazingFeature)
+-   Open a Pull Request
 
 ## 📄 License
 Distributed under the MIT License. See LICENSE for more information.
-
-
-
-
-## Contributing
-Contributions are welcome! If you have any improvements or suggestions, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-
-## License
-Distributed under the MIT License. See LICENSE for more information.
-
-
-
-
-
-
-
-
-
-
-
-
