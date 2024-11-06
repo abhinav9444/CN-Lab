@@ -19,7 +19,7 @@ To set up the environment for the lab exercises, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ComputerNetworksLab.git
+   git clone https://github.com/abhinav9444/CN-Lab.git
 
 2. Navigate to the project directory:
   
