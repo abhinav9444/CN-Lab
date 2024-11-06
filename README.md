@@ -30,10 +30,10 @@ To set up the environment for the lab exercises, follow these steps:
 ## 🤝 Contributing
 Contributions are welcome! If you have any improvements or suggestions, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
--    Fork the Project
--    Create your Feature Branch (git checkout -b feature/AmazingFeature)
--   Commit your Changes (git commit -m 'Add some AmazingFeature')
--   Push to the Branch (git push origin feature/AmazingFeature)
+-    Fork the Repository
+-    Create your sub Branch (git checkout -b NewBranch/SubBranch)
+-   Commit your Changes (git commit -m 'Add some SubBranch')
+-   Push to the Branch (git push origin NewBranch/SubBranch)
 -   Open a Pull Request
 
 ## 📄 License
