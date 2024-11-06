@@ -37,4 +37,4 @@ Contributions are welcome! If you have any improvements or suggestions, please f
 -   Open a Pull Request
 
 ## 📄 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
