@@ -22,11 +22,11 @@ To set up the environment for the lab exercises, follow these steps:
    git clone https://github.com/abhinav9444/CN-Lab.git
 
 2. Navigate to the project directory:
-  
-  Copy code from different Laboratory session and execute them on your local machine for implementation.
-  ```sh
-cd .\CN-Lab\Lab-Codes\ 
-  ```
+
+   Copy code from different Laboratory session and execute them on your local machine for implementation.
+   ```sh
+   cd .\CN-Lab\Lab-Codes\ 
+   ```
 ## 🤝 Contributing
 Contributions are welcome! If you have any improvements or suggestions, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
