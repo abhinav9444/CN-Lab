@@ -2,22 +2,11 @@
 
 Welcome to the **Computer Networks Laboratory** repository! This repository houses all the practical exercises, assignments, and projects completed as part of the Computer Networks course (**CS30003**).
 
-## 📑 Table of Contents
-
-- [Introduction](#introduction)
-- [Lab Sessions](#lab-sessions)
-- [Assignments](#assignments)
-- [Projects](#projects)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌟 Introduction
 
 This repository contains the code and documentation for the laboratory sessions of the **Computer Networks** course. Each lab session focuses on different aspects of computer networking, including network protocols, simulations, and hands-on experiments.
 
-## 👨‍💻 Lab Sessions
+## 💻 Lab Sessions
 
 The lab sessions are organized into separate folders. Each folder contains:
 - **Lab Instructions**: Detailed instructions for the lab session.
