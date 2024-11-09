@@ -52,14 +52,14 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
 | **2.1**     | Write a simple datagram program to establish client server communication.        | [server](./Lab-Codes/2.1s.c) [client](./Lab-Codes/2.1c.c)|
-| **2.2**     | Write a sender and receiver program in C by passing the IP address and the port number of each other through the command line arguments using connection less socket. Both of them will exchange messages with each other continuously. If any one of them will receive the “exit” message from the other end then both of them will close the connection. (Assume both the client and server are running with in the same host) ~ given in Lesson Plan           | [Receiver](./Lab-Codes/2.2r.c) <br><br>[Sender](./Lab-Codes/2.2s.c)|
+| **2.2**     | Write a sender and receiver program in C by passing the IP address and the port number of each other through the command line arguments using connection less socket. Both of them will exchange messages with each other continuously. If any one of them will receive the “exit” message from the other end then both of them will close the connection. (Assume both the client and server are running with in the same host) ~ given in Lesson Plan           | [Receiver](./Lab-Codes/2.2r.c) <br><br> [Sender](./Lab-Codes/2.2s.c)|
 
-## ab Session 3 : Connection Oriented Socket Programming
+## Lab Session 3 : Connection Oriented Socket Programming
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **3.1**     | Configuring Static Routing       | [Solution](./Lab3/problem1.md)|
-| **6**     | Exploring Dynamic Routing Protocols | [Solution](./Lab3/problem2.md)|
+| **3.1**   | WRP to add two numbers & show their sum in client server model.  | [server](./Lab_Codes/3.1s.c) [client](./Lab_Codes/3.1c.c)|
+| **3.2**   | Exploring Dynamic Routing Protocols | [Solution](./Lab3/problem2.md)|
 
 ## Lab Session 4
 
