@@ -51,7 +51,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **2.1**     | Write a simple datagram program to establish client server communication.        | [server](./Lab-Codes/2.1s.c) [client](./Lab-codes/2.1c.c)|
+| **2.1**     | Write a simple datagram program to establish client server communication.        | [server](./Lab-Codes/2.1s.c) [client](./Lab-Codes/2.1c.c)|
 | **2.2**     | Write a sender and receiver program in C by passing the IP address and the port number of each other through the command line arguments using connection less socket. Both of them will exchange messages with each other continuously. If any one of them will receive the “exit” message from the other end then both of them will close the connection. (Assume both the client and server are running with in the same host) ~ given in Lesson Plan           | [Receiver](./Lab-Codes/2.2r.c) <br><br>[Sender](./Lab-Codes/2.2s.c)|
 
 ## ab Session 3 : Connection Oriented Socket Programming
