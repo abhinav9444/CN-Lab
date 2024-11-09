@@ -58,7 +58,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **3.1**   | WRP to add two numbers & show their sum in client server model.  | [server](./Lab_Codes/3.1s.c) [client](./Lab_Codes/3.1c.c)|
+| **3.1**   | WRP to add two numbers & show their sum in client server model.  | [server](./Lab-Codes/3.1s.c) [client](./Lab-Codes/3.1c.c)|
 | **3.2**   | Exploring Dynamic Routing Protocols | [Solution](./Lab3/problem2.md)|
 
 ## Lab Session 4
