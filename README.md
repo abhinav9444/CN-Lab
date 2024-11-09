@@ -1,4 +1,4 @@
-# 🌐 Computer Networks Laboratory (CS30003) 🌐
+# 🌐 Computer Networks Laboratory (CS39003) 🌐
 
 Welcome to the **Computer Networks Laboratory** repository! This repository houses all the practical exercises, assignments, and projects completed as part of the Computer Networks course (**CS30003**).
 
