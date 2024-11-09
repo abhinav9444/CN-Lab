@@ -37,17 +37,17 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 # Network Lab Sessions Index
 
-## Lab Session 1 : Revising C Fundamentals
+## Lab Session 1 : Overview of C Programming
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **1.1**     | WAP to swap 2 numbers both by call by value and call by address                                       | [Solution](./Lab1/problem1.md)|
+| **1.1**     | WAP to swap 2 numbers both by call by value and call by address.                                      | [Solution](./Lab1/problem1.md)|
 | **1.2**     | WAP to declare a structure having data members & display its content.                                 | [Solution](./Lab1/problem2.md)|
 | **1.3**     | WAP to accept array of employee in structure & print them in sorted way.                              | [Solution](./Lab1/problem2.md)|
 | **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Solution](./Lab1/problem2.md)|
 | **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab1/problem2.md)|
 
-## Lab Session 2
+## Lab Session 2 : Basics of Socket Programming
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
