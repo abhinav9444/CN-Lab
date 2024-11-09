@@ -83,6 +83,20 @@ To set up the environment for the lab exercises, follow these steps:
    ```sh
    cd .\CN-Lab\Lab-Codes\ 
    ```
+3. Compile the sender and receiver programs using gcc:
+   ```sh
+   gcc sender.c -o sender
+   gcc receiver.c -o receiver
+   ```
+4. First, run the receiver program:
+   ```
+   .\receiver.exe
+   ```
+5. Open another command prompt (cmd) or PowerShell and run the sender program:
+   ```
+   .\sender.exe
+   ```
+   
 ## 🤝 Contributing
 Contributions are welcome! If you have any improvements or suggestions, please fork the repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
