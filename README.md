@@ -42,10 +42,10 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
 | **1.1**     | WAP to swap 2 numbers both by call by value and call by address.                                      | [Solution](./Lab-Codes/1.1.c)|
-| **1.2**     | WAP to declare a structure having data members & display its content.                                 | [Solution](./Lab1/problem2.md)|
-| **1.3**     | WAP to accept array of employee in structure & print them in sorted way.                              | [Solution](./Lab1/problem2.md)|
-| **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Solution](./Lab1/problem2.md)|
-| **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab1/problem2.md)|
+| **1.2**     | WAP to declare a structure having data members & display its content.                                 | [Solution](./Lab-Codes/1.2.c)|
+| **1.3**     | WAP to accept array of employee in structure & print them in sorted way.                              | [Solution](./Lab-Codes/1.3.c)|
+| **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Solution](./Lab-Codes/1.4.c)|
+| **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab-Codes/1.5.c)|
 
 ## Lab Session 2 : Basics of Socket Programming
 
