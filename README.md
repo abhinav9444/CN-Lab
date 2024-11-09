@@ -13,6 +13,7 @@ The lab sessions are organized into separate folders. Each folder contains:
 - **Source Code**: The code written during the lab session.
 - **Documentation**: Additional documentation and notes.
 
+<!--
 ## 📂 Problems Index
 
 This section lists the problems covered in the **Computer Networks Laboratory**:
@@ -31,21 +32,20 @@ This section lists the problems covered in the **Computer Networks Laboratory**:
 > **Note**: Each problem folder contains the respective code, documentation, and detailed explanations.
 
 ---
-
+-->
 Feel free to explore the repository and get hands-on experience with computer networks. **Happy Networking!**
 
-
-
-
-
-# Network Lab Sessions
+# Network Lab Sessions Index
 
 ## Lab Session 1 : Revising C Fundamentals
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **1.1**     | WAP to swap 2 numbers both by call by value and call by address      | [Solution](./Lab1/problem1.md)|
-| **1.2**     | WAP to declare a structure having data members & display its content.      | [Solution](./Lab1/problem2.md)|
+| **1.1**     | WAP to swap 2 numbers both by call by value and call by address                                       | [Solution](./Lab1/problem1.md)|
+| **1.2**     | WAP to declare a structure having data members & display its content.                                 | [Solution](./Lab1/problem2.md)|
+| **1.3**     | WAP to accept array of employee in structure & print them in sorted way.                              | [Solution](./Lab1/problem2.md)|
+| **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Solution](./Lab1/problem2.md)|
+| **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab1/problem2.md)|
 
 ## Lab Session 2
 
