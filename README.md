@@ -36,6 +36,40 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 
 
+
+
+# Network Lab Sessions
+
+## Lab Session 1 : Revising C Fundamentals
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **1.1**     | WAP to swap 2 numbers both by call by value and call by address      | [Solution](./Lab1/problem1.md)|
+| **1.2**     | WAP to declare a structure having data members & display its content.      | [Solution](./Lab1/problem2.md)|
+
+## Lab Session 2
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **3**     | Analyzing TCP/IP Layers          | [Solution](./Lab2/problem1.md)|
+| **4**     | Implementing a Simple Socket Program | [Solution](./Lab2/problem2.md)|
+
+## Lab Session 3
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **5**     | Configuring Static Routing       | [Solution](./Lab3/problem1.md)|
+| **6**     | Exploring Dynamic Routing Protocols | [Solution](./Lab3/problem2.md)|
+
+## Lab Session 4
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **7**     | Simulating Network Topology with Packet Tracer | [Solution](./Lab4/problem1.md)|
+| **8**     | Performance Analysis of Network Links | [Solution](./Lab4/problem2.md)|
+
+
+
 ## ⚙️ Installation
 
 To set up the environment for the lab exercises, follow these steps:
