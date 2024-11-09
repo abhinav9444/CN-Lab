@@ -1,4 +1,4 @@
-# 🌐 Computer Networks Laboratory (CS30003) 🌐
+# 🌐 Computer Networks Laboratory (CS39003) 🌐
 
 Welcome to the **Computer Networks Laboratory** repository! This repository houses all the practical exercises, assignments, and projects completed as part of the Computer Networks course (**CS30003**).
 
@@ -13,6 +13,7 @@ The lab sessions are organized into separate folders. Each folder contains:
 - **Source Code**: The code written during the lab session.
 - **Documentation**: Additional documentation and notes.
 
+<!--
 ## 📂 Problems Index
 
 This section lists the problems covered in the **Computer Networks Laboratory**:
@@ -31,8 +32,41 @@ This section lists the problems covered in the **Computer Networks Laboratory**:
 > **Note**: Each problem folder contains the respective code, documentation, and detailed explanations.
 
 ---
-
+-->
 Feel free to explore the repository and get hands-on experience with computer networks. **Happy Networking!**
+
+# Network Lab Sessions Index
+
+## Lab Session 1 : Overview of C Programming
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **1.1**     | WAP to swap 2 numbers both by call by value and call by address.                                      | [Solution](./Lab1/problem1.md)|
+| **1.2**     | WAP to declare a structure having data members & display its content.                                 | [Solution](./Lab1/problem2.md)|
+| **1.3**     | WAP to accept array of employee in structure & print them in sorted way.                              | [Solution](./Lab1/problem2.md)|
+| **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Solution](./Lab1/problem2.md)|
+| **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab1/problem2.md)|
+
+## Lab Session 2 : Basics of Socket Programming
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **3**     | Analyzing TCP/IP Layers          | [Solution](./Lab2/problem1.md)|
+| **4**     | Implementing a Simple Socket Program | [Solution](./Lab2/problem2.md)|
+
+## Lab Session 3
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **5**     | Configuring Static Routing       | [Solution](./Lab3/problem1.md)|
+| **6**     | Exploring Dynamic Routing Protocols | [Solution](./Lab3/problem2.md)|
+
+## Lab Session 4
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **7**     | Simulating Network Topology with Packet Tracer | [Solution](./Lab4/problem1.md)|
+| **8**     | Performance Analysis of Network Links | [Solution](./Lab4/problem2.md)|
 
 
 
