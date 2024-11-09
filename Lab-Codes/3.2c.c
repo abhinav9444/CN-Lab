@@ -1,7 +1,5 @@
-/*
-Ques 3.1 : WAP in TCP, client will send two numbers to server and server will calculate the sum. And send it back to the client, the client will display it.
-Client Side
-*/ 
+/*Ques 3.2 : WAP in TCP, client will send two number to server and server will swap it. And send it back to the client, the client will display it.*/
+/*Client Side*/ 
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -11,6 +9,7 @@ Client Side
 #include<arpa/inet.h>
 #include<unistd.h>
 #include<sys/types.h>
+
 
 int main()
 {
@@ -37,16 +36,17 @@ int main()
 	
 
 	
-	printf("\nEnter 2 numbers : ");
+	printf("\nEnter 2 numbers : (a,b) : ");
 	int a,b;
 	scanf("%d %d",&a,&b);
 	//Code for Sending 2 numbers
 	send(sockfd,&a,sizeof(int),0);
 	send(sockfd,&b,sizeof(int),0);
 	//Code for recieving the sum of sent 2 numbers
-	int data2;
+	int data1,data2;
+	recv(sockfd,&data1,sizeof(int),0);
 	recv(sockfd,&data2,sizeof(int),0);
-	//printing the received sum
-	printf("\nSum of the 2 number is : %d\n",data2);
+	//printing the received swapped numbers
+	printf("\nRecieved Swapped Numbers (a,b) : %d %d\n",data1,data2);
 	return 0;
 }
