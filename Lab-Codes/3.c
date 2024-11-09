@@ -40,13 +40,14 @@ int main() {
         printf("Name: ");
         scanf("%s", employees[i].name);
     }
+    
     qsort(employees, n, sizeof(struct Employee), compare);
+    
     printf("\nSorted Employee Details:\n");
+    printf("| %-12s | %-10s | %-20s |\n", "Emp Number", "Salary", "Name");
+    printf("|--------------|------------|----------------------|\n");
     for (int i = 0; i < n; i++) {
-        printf("Employee Number: %d\n", employees[i].emp_no);
-        printf("Salary: %.2f\n", employees[i].salary);
-        printf("Name: %s\n", employees[i].name);
-        printf("\n");
+        printf("| %-12d | %-10.2f | %-20s |\n", employees[i].emp_no, employees[i].salary, employees[i].name);
     }   
     return 0;
 }
