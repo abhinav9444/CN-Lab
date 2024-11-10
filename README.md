@@ -69,25 +69,25 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
 | **4.1**     | WAP in TCP for multiple clients. when one client connects to server, it will send clients their serial number. | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
-| **4.2**     | WAP in TCP to create a chat server between client and server. | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
-| **4.3**     | WAP in TCP to create a chat server between client and server. | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
-| **4.4**     | WAP in TCP to create a chat server between client and server. | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+| **4.2**     | WAP in TCP to create a chat server between client and server. | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
+| **4.3**     | WAP in TCP to create a chat server between client and server. | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
+| **4.4**     | WAP in TCP to create a chat server between client and server. | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
 
 ## Lab Session 5 : 
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **5.1**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
-| **5.2**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
-| **5.3**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+| **5.1**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
+| **5.2**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
+| **5.3**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
 
 ## Lab Session 6 : Introduction to Network Simulators (Cisco Packet Tracer)
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **5.1**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
-| **5.2**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
-| **5.3**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+| **5.1**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
+| **5.2**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
+| **5.3**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|
 
 ## ⚙️ Installation
 
