@@ -64,12 +64,12 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **3.4**   | WRP in TCP for an array of integer sent by the client to the server and return maximum, minimum, sum and average of all the numbers. | [server](./Lab-Codes/3.4s.c) [client](./Lab-Codes/3.4c.c)|
 | **3.5**   | WRP in TCP to send a student structure having data members (roll,name,marks of subjets) to the server by the client and return sum of marks from the server and display on the client side. | [server](./Lab-Codes/3.5s.c) [client](./Lab-Codes/3.5c.c)|
 
-## Lab Session 4
+## Lab Session 4 : Socket Programming with Multiple clients
 
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
-| **7**     | Simulating Network Topology with Packet Tracer | [Solution](./Lab4/problem1.md)|
-| **8**     | Performance Analysis of Network Links | [Solution](./Lab4/problem2.md)|
+| **4.1**     | WAP in TCP for multiple clients. when one client connects to server, it will send clients their serial number. | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+| **4.2**     | Performance Analysis of Network Links | [Solution](./Lab4/problem2.md)|
 
 
 
