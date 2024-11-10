@@ -81,6 +81,14 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **5.2**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
 | **5.3**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
 
+## Lab Session 6 : Introduction to Network Simulators (Cisco Packet Tracer)
+
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
+| **5.1**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+| **5.2**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+| **5.3**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
+
 ## ⚙️ Installation
 
 To set up the environment for the lab exercises, follow these steps:
