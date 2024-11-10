@@ -75,6 +75,8 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 ## Lab Session 5 : 
 
+| **S.No.** | **Problem Statement**            | **Solution File**             |
+|-----------|----------------------------------|-------------------------------|
 | **5.1**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
 | **5.2**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
 | **5.3**     | . | [server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)|
