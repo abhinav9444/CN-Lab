@@ -60,6 +60,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 |-----------|----------------------------------|-------------------------------|
 | **3.1**   | WRP to add two numbers & show their sum in client server model.  | [server](./Lab-Codes/3.1s.c) [client](./Lab-Codes/3.1c.c)|
 | **3.2**   | WRP to swap two numbers in TCP | [server](./Lab-Codes/3.2s.c) [client](./Lab-Codes/3.2c.c)|
+| **3.3**   | WRP in TCP for a number sent by the client to the server and check whether it is an Armstrong number or not. | [server](./Lab-Codes/3.3s.c) [client](./Lab-Codes/3.3c.c)|
 
 ## Lab Session 4
 
