@@ -1,5 +1,10 @@
-/*Ques 3.1 : WAP in TCP, client will send two numbers to server and server will swap it. And send it back to the client, the client will display it.*/
-/*Server Side*/ 
+/*
+Ques-3.2 : WAP in TCP, client will send two numbers to server and server will swap it. And send it back to the client, the client
+will display it.
+
+***Server Side***
+*/
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

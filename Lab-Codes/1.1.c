@@ -1,5 +1,5 @@
 /*
-Ques 1 : Wrp to swap 2 numbers by call by value and call by address.
+Ques-1.1 : Wrp to swap 2 numbers by call by value and call by address.
 */
 
 #include <stdio.h>

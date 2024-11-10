@@ -1,5 +1,5 @@
 /*
-Ques-4 : Wrp to accept 10 numbers by using dynamic array & find the sum and average of the numbers.
+Ques-1.4 : Wrp to accept 10 numbers by using dynamic array & find the sum and average of the numbers.
 */
 
 #include <stdio.h>

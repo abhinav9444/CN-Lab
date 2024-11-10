@@ -1,7 +1,9 @@
 /*
-Ques 3.3 : Wap in TCP, Client will send a number to server. Server will check if it is armstrong no or not. Return confirmation to client. Client will display whether Armstrong or not. 
-*/
-/*Client Side*/ 
+Ques-3.3 : Wap in TCP, Client will send a number to server. Server will check if it is armstrong no or not. Return confirmation 
+to client. Client will display whether Armstrong or not. 
+
+***Client Side***
+*/ 
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

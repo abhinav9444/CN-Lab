@@ -1,7 +1,9 @@
 /*
-Ques 3.1 : WAP in TCP, client will send two numbers to server and server will calculate the sum. And send it back to the client, the client will display it.
-Client Side
+Ques-3.1 : WAP in TCP, client will send two numbers to server and server will calculate the sum. And send it back to the client, the client will display it.
+
+***Client Side***
 */ 
+
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

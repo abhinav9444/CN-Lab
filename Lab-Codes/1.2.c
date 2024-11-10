@@ -1,5 +1,5 @@
 /*
-Ques-2 : Wrp to declare the student structure having data members roll, name, marks then input the student details and display 
+Ques-1.2 : Wrp to declare the student structure having data members roll, name, marks then input the student details and display 
 the student details using pointer to structure. 
 */
 

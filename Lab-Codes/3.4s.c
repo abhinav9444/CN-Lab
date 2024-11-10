@@ -1,8 +1,9 @@
 /*
-Ques 3.3 : Wap in TCP, Client will send an array of integers to the server. Server wil return the maximum, minimum, sum and 
+Ques-3.4 : Wap in TCP, Client will send an array of integers to the server. Server wil return the maximum, minimum, sum and 
 average of the numbers to the Client and it will diplay the results on the client side.
-*/
-/*Server Side*/ 
+
+***Server Side***
+*/ 
 
 #include <stdio.h>
 #include <string.h>

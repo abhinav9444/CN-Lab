@@ -1,5 +1,5 @@
 /*
-Ques-3 : write a program to accept array of employee info in structure and try to sort them according to salary of the employee.
+Ques-1.3 : write a program to accept array of employee info in structure and try to sort them according to salary of the employee.
 structure contains the data members(emp_no, salary, name)
 */
 

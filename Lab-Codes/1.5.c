@@ -1,5 +1,5 @@
 /*
-Ques-5 : write a program to enter a statement from console and write to file and then read from the file.
+Ques-1.5 : write a program to enter a statement from console and write to file and then read from the file.
 */
 
 #include <stdio.h> 

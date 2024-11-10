@@ -1,8 +1,9 @@
 /*
-Ques 3.5 : Wap in TCP, Client will send a student structure having data members roll, name, marks to the server. Server will 
+Ques-3.5 : Wap in TCP, Client will send a student structure having data members roll, name, marks to the server. Server will 
 return the sum of the marks to the Client and it will display the results on the client side.
-*/
-/*Server Side*/ 
+
+***Server Side***
+*/ 
 
 #include <stdio.h>
 #include <string.h>
