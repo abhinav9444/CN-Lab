@@ -85,7 +85,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 | **S.No.** | **Problem Statement**            | **Packet Tracer File**             | **Illustration Images** |
 |-----------|----------------------------------|-------------------------------| ----------------------- |
-| **6.1**     | Simulating Direct (point to point) connection between 2 PCs through wire (Using Copper Cross Over) | [Download Simulation](simulations/lab6.pkt?raw=true)|[See image Illustrations](./Cisco-Packet-Tracer-Illustrations/lab6_images.md)|
+| **6.1**     | Simulating Direct (point to point) connection between 2 PCs through wire (Using Copper Cross Over) | [Download Simulation](simulations/lab6.pkt?raw=true)|[See image Illustrations](./Cisco-Packet-Tracer-Illustrations/exp6.1_images.md)|
 | **6.2**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->||
 | **6.3**     | . | [Download Lab 6 Simulation](Lab-Codes/6.1.pkt?raw=true)||
 
