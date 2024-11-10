@@ -83,13 +83,9 @@ Feel free to explore the repository and get hands-on experience with computer ne
 
 ## Lab Session 6 : Introduction to Network Simulators (Cisco Packet Tracer)
 
-
-| No. | Lab Name | Simulation File | Illustration Images |
-| --- | -------- | ---------------- | ------------------ |
-
-| **S.No.** | **Problem Statement**            | **Solution File**             | **Illustration Images** |
+| **S.No.** | **Problem Statement**            | **Packet Tracer File**             | **Illustration Images** |
 |-----------|----------------------------------|-------------------------------| ----------------------- |
-| **6.1**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->|[Lab 6 Illustrations](./Cisco-Packet-Tracer-Illustrations/lab6_images.md)|
+| **6.1**     | Simulating Direct (point to point) connection between 2 PCs through wire (Using Copper Cross Over) | [Download Simulation](simulations/lab6.pkt?raw=true)|[See image Illustrations](./Cisco-Packet-Tracer-Illustrations/lab6_images.md)|
 | **6.2**     | . | <!--[server](./Lab-Codes/4.1s.c) [client](./Lab-Codes/4.1c.c)-->||
 | **6.3**     | . | [Download Lab 6 Simulation](Lab-Codes/6.1.pkt?raw=true)||
 
