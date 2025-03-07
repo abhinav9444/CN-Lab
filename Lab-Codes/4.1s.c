@@ -59,4 +59,3 @@ int main()
     send(clientfd,&n,sizeof(int),0);
     return 0;
 }
-
