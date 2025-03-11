@@ -45,7 +45,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **1.2**     | Network Diagnostic Tools                                                                              | [Read](./Lab-Codes/1.2.md)|
 | **1.3**     | Finding IP Addresses                                                                                  | [Read](./Lab-Codes/1.3.md)|
 | **1.4**     | Sending packets of fixed size to a website.                                                           | [Read](./Lab-Codes/1.4.md)|
-| **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab-Codes/1.5.c)|
+| **1.5**     | Running Traceroute via 2 or more service provider.                                                    | [Read](./Lab-Codes/1.5.md)|
 
 ## Week 1 : Lab Session 1 : Overview of C Programming
 
