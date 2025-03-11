@@ -42,7 +42,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **S.No.** | **Problem Statement**            | **Solution File**             |
 |-----------|----------------------------------|-------------------------------|
 | **1.1**     | Discuss what is networking and its significance in computer network. Discuss the components (i.e., h/w and s/w) required for data communication in a Computer Network. (Show the h/w components like Network Interface Card (NIC), Network Cable, RG-45 Connector, Hub, Switch, Router etc.) | [Read](./Lab-Codes/1.1.md)|
-| **1.2**     | WAP to declare a structure having data members & display its content.                                 | [Solution](./Lab-Codes/1.2.c)|
+| **1.2**     | Network Diagnostic Tools                                                                              | [Read](./Lab-Codes/1.2.md)|
 | **1.3**     | WAP to accept array of employee in structure & print them in sorted way.                              | [Solution](./Lab-Codes/1.3.c)|
 | **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Solution](./Lab-Codes/1.4.c)|
 | **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab-Codes/1.5.c)|
