@@ -47,7 +47,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **1.4**     | Sending packets of fixed size to a website.                                                           | [Read](./Lab-Codes/1.4.md)|
 | **1.5**     | Running Traceroute via 2 or more service provider.                                                    | [Read](./Lab-Codes/1.5.md)|
 | **1.6**     | Limiting number of hops using Traceroute.                                                             | [Read](./Lab-Codes/1.6.md)|
-| **1.7**     | Running Traceroute via 2 or more service provider.                                                    | [Read](./Lab-Codes/1.7.md)|
+| **1.7**     | Netstat Statistics.                                                                                   | [Read](./Lab-Codes/1.7.md)|
 | **1.8**     | Running Traceroute via 2 or more service provider.                                                    | [Read](./Lab-Codes/1.8.md)|
 | **1.9**     | Running Traceroute via 2 or more service provider.                                                    | [Read](./Lab-Codes/1.9.md)|
 
