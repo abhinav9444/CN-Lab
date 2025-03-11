@@ -49,7 +49,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **1.6**     | Limiting number of hops using Traceroute.                                                             | [Read](./Lab-Codes/1.6.md)|
 | **1.7**     | Netstat Statistics.                                                                                   | [Read](./Lab-Codes/1.7.md)|
 | **1.8**     | Finding IP Address using nslookup.                                                                    | [Read](./Lab-Codes/1.8.md)|
-| **1.9**     | Running Traceroute via 2 or more service provider.                                                    | [Read](./Lab-Codes/1.9.md)|
+| **1.9**     | Reverse DNS Lookup.                                                                                   | [Read](./Lab-Codes/1.9.md)|
 
 ## Week 1 : Lab Session 1 : Overview of C Programming
 
