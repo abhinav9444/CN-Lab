@@ -44,7 +44,7 @@ Feel free to explore the repository and get hands-on experience with computer ne
 | **1.1**     | Discuss what is networking and its significance in computer network. Discuss the components (i.e., h/w and s/w) required for data communication in a Computer Network. (Show the h/w components like Network Interface Card (NIC), Network Cable, RG-45 Connector, Hub, Switch, Router etc.) | [Read](./Lab-Codes/1.1.md)|
 | **1.2**     | Network Diagnostic Tools                                                                              | [Read](./Lab-Codes/1.2.md)|
 | **1.3**     | Finding IP Addresses                                                                                  | [Read](./Lab-Codes/1.3.md)|
-| **1.4**     | WAP to accept 10 numbers using dynamic array & find sum & average of numbers.                         | [Read](./Lab-Codes/1.4.md)|
+| **1.4**     | Sending packets of fixed size to a website.                                                           | [Read](./Lab-Codes/1.4.md)|
 | **1.5**     | WAP to enter a statement from console and write it to a file and read its content from the same file. | [Solution](./Lab-Codes/1.5.c)|
 
 ## Week 1 : Lab Session 1 : Overview of C Programming
